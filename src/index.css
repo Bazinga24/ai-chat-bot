@@ -1,0 +1,19 @@
+* {
+  font-family: monospace;
+  font-size: 20px;
+  position: relative;
+}
+
+.delete-chat-button {
+  width: 180px;
+  padding: 10px;
+  background-color: rgb(239, 207, 240);
+  font-family: monospace;
+  font-size: 20px;
+  border-radius: 10px;
+  border: none;
+  position: absolute;
+  top: 2%;
+  left: 5%;
+  font-weight: 600;
+}

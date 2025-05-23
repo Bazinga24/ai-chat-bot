@@ -1,0 +1,17 @@
+.chatwindow-content {
+  height: 65vh;
+  overflow-y: auto;
+  width: 100%;
+  background-color: rgb(241, 232, 241);
+  margin-top: 30px;
+  margin-bottom: 20px;
+  padding: 15px 0px;
+}
+
+.empty-chatwindow {
+  background-color: white;
+  height: 65vh;
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
